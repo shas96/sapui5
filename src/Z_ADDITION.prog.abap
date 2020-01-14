@@ -5,6 +5,6 @@ parameter: number1 type i,
 
  data Sum type i.
 
- Sum = number1 + number2.
+ Sum = number1 + number2 + 10.
 
  write:/ Sum.
